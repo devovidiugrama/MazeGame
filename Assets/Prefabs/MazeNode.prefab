@@ -123,7 +123,7 @@ Transform:
   m_GameObject: {fileID: 5217630199482934942}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: -0.5, z: 0}
-  m_LocalScale: {x: 1.1, y: 0.1, z: 1.1}
+  m_LocalScale: {x: 1, y: 0.1, z: 1}
   m_Children: []
   m_Father: {fileID: 5217630199717492306}
   m_RootOrder: 0
@@ -339,6 +339,7 @@ MonoBehaviour:
   - {fileID: 5217630200736417621}
   - {fileID: 5217630200079347715}
   floor: {fileID: 5217630199482934931}
+  finishFloor: {fileID: 2800000, guid: 8f97e3913bdb782408c477d539dc37dd, type: 3}
 --- !u!1 &5217630200079347715
 GameObject:
   m_ObjectHideFlags: 0

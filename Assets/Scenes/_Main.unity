@@ -877,7 +877,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 25.00005
+  field of view: 44.99994
   orthographic: 0
   orthographic size: 5
   m_Depth: 0
@@ -1255,8 +1255,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 945cb80028110b641a2060bd1a1d5e2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sizeX: 25
-  sizeY: 25
+  sizeX: 15
+  sizeY: 15
   nodePrefab: {fileID: 5217630199717492309, guid: 3276c0cdebd92e24cad2e03200785774, type: 3}
   generateButton: {fileID: 1805117890}
   destroyButton: {fileID: 867269620}
@@ -1298,7 +1298,7 @@ MonoBehaviour:
   m_LookAt: {fileID: 1236126161}
   m_Follow: {fileID: 1236126161}
   m_Lens:
-    FieldOfView: 25.00005
+    FieldOfView: 44.99994
     OrthographicSize: 5
     NearClipPlane: 0.3
     FarClipPlane: 1000

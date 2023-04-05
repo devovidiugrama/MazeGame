@@ -98,7 +98,7 @@ namespace Visuals
                 targetFieldOfView -= 5;
             }
 
-            targetFieldOfView = Mathf.Clamp(targetFieldOfView, 10, 50);
+            targetFieldOfView = Mathf.Clamp(targetFieldOfView, 10, 90);
 
             if (cineMachineVirtualCamera != null)
             {
